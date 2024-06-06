@@ -1,4 +1,6 @@
-## Entidades
+<p>Este exercício foca na criação de um modelo de entidades para gerenciar shows e ingressos em um sistema. Abaixo está uma descrição detalhada das entidades envolvidas, seus atributos e os requisitos que devem ser atendidos.</p>
+
+# Entidades
 
 ### Show
 
